@@ -1,2 +1,2 @@
 # gitTutorial
-Learning Git commands
+Learning Git commands from tutorial
